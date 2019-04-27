@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="test.dtd" location="$USER_HOME$/Desktop/Workplace/Test_xml/src/com/opckev/test.dtd" />
+  </component>
+</application>
