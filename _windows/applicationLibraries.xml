@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="apache-log4j-2.11.2-bin (1)">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Downloads/apache-log4j-2.11.2-bin (1).zip!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="jar://$USER_HOME$/Downloads/apache-log4j-2.11.2-bin (1).zip!/" recursive="false" />
+    </library>
     <library name="log4j:log4j:1.2.17" type="repository">
       <properties maven-id="log4j:log4j:1.2.17" />
       <CLASSES>
